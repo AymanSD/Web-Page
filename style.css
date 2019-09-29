@@ -1,0 +1,104 @@
+body{
+	border: 1.5em solid lightgray;
+	border-radius:25px;
+	height:90%;
+}
+h1{
+	font-size:3em;
+	text-align: center;
+	padding:1.5em;
+}
+h6{
+	text-align: center;
+	font-size:1em;
+	margin-top:10%;
+	color:gray;
+}
+.logIn{
+	margin-top:20%;
+}
+div{
+	width:50%;
+	
+}
+#rightSide{
+	width:50%;
+	background-image: linear-gradient(to top left, rgb(180,50,200), rgb(0,0,0));
+	float: right;
+	height:100%;
+	border-radius:0px 25px 25px 0px;  
+	color: white;
+}
+#leftSide{
+	width: 50%;
+	background-color: white;
+	border-radius:25px 0px 0px 25px;
+}
+form{
+	vertical-align: center;
+	width: 90%;
+	padding:1em;
+	text-align: center;
+	
+}
+#submit{
+	background-color:rgb(180,50,200);
+	border:none;
+	padding:1em;
+	color:white;
+	font-weight: bold;
+}
+p{
+	text-align:center;
+	font-size:1.5em;
+}
+button{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid white;
+	font-size:1.2em;
+	padding:1em;
+	border-radius:30px;
+	background-color:transparent;
+	color:white;
+	width:25%;
+}
+input{
+	margin-top:1em;
+	margin-bottom:1em;
+	padding:0.5em;
+	width:70%;
+}
+#check{
+	margin-left:0.2em;
+	padding:0em;
+	width:2%;
+}
+#forgotPass{
+	margin-left:22em;
+}
+img{
+	display: block;
+	height: 50%;
+	width: 25%;
+}
+
+#addFriend{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20%;
+	padding:2em;
+	height:25%;
+	width:30%;
+}
+.share{
+	display:flex;
+	align-items:center;	
+	margin-left:auto;
+	margin-right:auto;
+	height:5%;
+	margin-top:10%;
+	
+}
